@@ -48,7 +48,7 @@ function App() {
       <header className="fixed top-0 left-0 right-0 bg-primary-100/80 backdrop-blur-md z-50 border-b border-primary-200">
         <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold text-primary-600">VoyJourno</h1>
+            <h1 className="text-2xl font-bold text-primary-600">VOYJOURNO</h1>
           </div>
           <div className="hidden md:flex items-center space-x-8">
             {/* <a href="#how-it-works" className="text-gray-600 hover:text-gray-900">How it works</a>
@@ -73,7 +73,7 @@ function App() {
               Plan Together. Plane Together.
             </h1>
             <p className="mt-4 sm:mt-6 text-lg sm:text-xl text-gray-600 max-w-3xl mx-auto px-4 sm:px-6">
-            Take the stress out of group travel. VoyJourno makes trip planning collaborative, efficient, 
+            Take the stress out of group travel. VOYJOURNO makes trip planning collaborative, efficient, 
             and fun by simplifying decisions, payments, and coordination.
 
             </p>
