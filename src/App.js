@@ -73,8 +73,9 @@ function App() {
               Plan Together. Plane Together.
             </h1>
             <p className="mt-4 sm:mt-6 text-lg sm:text-xl text-gray-600 max-w-3xl mx-auto px-4 sm:px-6">
-              Plan your perfect trip with AI-powered recommendations. Get personalized itineraries, 
-              find hidden gems, and make your travel dreams come true.
+            Take the stress out of group travel. VoyJourno makes trip planning collaborative, efficient, 
+            and fun by simplifying decisions, payments, and coordination.
+
             </p>
             <div className="mt-8 sm:mt-10 flex justify-center px-4 sm:px-0">
               <div className="relative max-w-md w-full">
@@ -102,16 +103,16 @@ function App() {
             <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8">
               {[
                 {
-                  title: "Tell us your preferences",
-                  description: "Share your travel style, interests, and must-sees with our AI."
+                  title: "Set the Vision",
+                  description: "The group leader picks a destination and date range while friends share preferences."
                 },
                 {
-                  title: "Get personalized plans",
-                  description: "Receive custom itineraries tailored to your unique preferences."
+                  title: "Collaborative Planning",
+                  description: "We generate tailored plans, and everyone upvotes or downvotes their favorites. We send reminders to keep the group on track."
                 },
                 {
-                  title: "Travel with confidence",
-                  description: "Enjoy your trip with detailed plans and local insights."
+                  title: "Smooth Execution",
+                  description: "Finalize plans, split payments seamlessly, and get everything organized in one place."
                 }
               ].map((step, index) => (
                 <div key={index} className="text-center p-4">
